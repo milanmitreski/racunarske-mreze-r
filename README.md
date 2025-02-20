@@ -1,24 +1,29 @@
-# Računarske mreže (I), 2024/2025
+# Računarske mreže (R), 2024/2025
 
-Obavezan kurs na četvrtoj godini Matematičkog fakulteta, za studente smera Informatika\
-Profesor: prof. dr Slavko Gajin\
-Asistenti: [Miloje Joksimović](http://www.matf.bg.ac.rs/p/miloje-joksimovic/pocetna/), [Milan Mitreski](http://poincare.matf.bg.ac.rs/~milan.mitreski)\
-Strana kursa na RCUB platformi: [ovde](https://elearning.rcub.bg.ac.rs/moodle/course/view.php?id=1558)
-
-## Ispitne obaveze
-
-Teorijski ispit: 50 poena\
-Praktični ispit: 50 poena
-
-Prakitčni ispit sadrži tri zadatka od kojih se dva zadatka rade u Javi, a treći zadatak (rutiranje) se radi na papiru, pri čemu se odgovori predaju preko Moodle testa.
+Obavezan kurs na četvrtoj godini Matematičkog fakulteta, za studente smera Matematika, modul Računarstvo i informatika\
+Profesor: [dr Mirko Spasić](https://poincare.matf.bg.ac.rs/~mirko.spasic/)\
+Asistenti: [Milan Mitreski](http://poincare.matf.bg.ac.rs/~milan.mitreski)
 
 ## Obrađene teme na kursu
 
 1. Ulazno/izlazni tokovi podataka u Javi (`InputStream, OutputStream, Reader, Writer`).
 2. Višenitno programiranje u Javi (`Thread, Runnable, BlockingQueue`).
-3. Rad sa adresnim objektima u Javi (`InetAddress, NetworkInterface`).
+3. Rad sa adresnim objektima u Javi (`InetAddress`).
 4. URL adresiranje u Javi (`URL, URLConnection`).
-5. Adresiranje - classful i classless adresiranje.
-6. TCP Soketi (`Socket, ServerSocket`).
-7. TCP Soketi (nastavak). Adresiranje (vežbanje).
-8. UDP Soketi (`DatagramSocket`, `DatagramPacket`).
+5. TCP Soketi (`Socket, ServerSocket`).
+6. UDP Soketi (`DatagramSocket`, `DatagramPacket`).
+
+## Ispitne obaveze
+
+Teorijski ispit: 40 poena (više informacija na profesorovom sajtu)
+Prakitčni ispit: 60 poena; Radi se 3 sata i sadrži tri zadatka, pri čemu:
+- Jedan zadatak u vezi sa temama 3. i 4.
+- Jedan zadatak u vezi sa temom 5.
+- Jedan zadatak u vezi sa temom 6.
+- Teme 1. i 2. biće uključene **barem** u jednom zadatku
+
+## Materijali za učenje
+
+Za potrebe pripreme praktičnog ispita dovoljno je obraditi teme/zadatke koji se nalaze u ovom repozitorijumu, u okviru direktorijuma `/materials`. Pored ovih materijala, dodatni materijali (koji su ranijih godina bili obrađivani na ovom kursu) mogu se naći na sledećem [linku](https://github.com/MATF-Computer-Networks/RM-materials/tree/latest-4r) - materijali koji se nalaze na tom repozitorijumu, a **ne nalaze se** na ovom repozitorijumu **neće se ispitivati na praktičnom ispitu**.
+
+Video materijali za ovaj kurs dostupni su na veb stranici kolege [Ivana Ristovića](https://matf.ristovic.net/courses/rm/). Ovi video materijali predstavljaju snimljene časove vežbi iz Računarskih mreža za I smer i **obimniji** su od materijala koji se nalaze na ovom repozitorijumu. 
