@@ -16,7 +16,7 @@ Asistenti: [Milan Mitreski](http://poincare.matf.bg.ac.rs/~milan.mitreski)
 ## Ispitne obaveze
 
 Teorijski ispit: 40 poena (više informacija na profesorovom sajtu)
-Prakitčni ispit: 60 poena; Radi se 3 sata i sadrži tri zadatka, pri čemu:
+Prakitčni ispit: 60 poena; Radi se 3 sata i sadrži tri zadatka koji se rade u Javi, pri čemu:
 - Jedan zadatak u vezi sa temama 3. i 4.
 - Jedan zadatak u vezi sa temom 5.
 - Jedan zadatak u vezi sa temom 6.
@@ -26,4 +26,6 @@ Prakitčni ispit: 60 poena; Radi se 3 sata i sadrži tri zadatka, pri čemu:
 
 Za potrebe pripreme praktičnog ispita dovoljno je obraditi teme/zadatke koji se nalaze u ovom repozitorijumu, u okviru direktorijuma `/materials`. Pored ovih materijala, dodatni materijali (koji su ranijih godina bili obrađivani na ovom kursu) mogu se naći na sledećem [linku](https://github.com/MATF-Computer-Networks/RM-materials/tree/latest-4r) - materijali koji se nalaze na tom repozitorijumu, a **ne nalaze se** na ovom repozitorijumu **neće se ispitivati na praktičnom ispitu**.
 
-Video materijali za ovaj kurs dostupni su na veb stranici kolege [Ivana Ristovića](https://matf.ristovic.net/courses/rm/). Ovi video materijali predstavljaju snimljene časove vežbi iz Računarskih mreža za I smer i **obimniji** su od materijala koji se nalaze na ovom repozitorijumu. 
+Video materijali za ovaj kurs dostupni su na veb stranici kolege [Ivana Ristovića](https://matf.ristovic.net/courses/rm/). Ovi video materijali predstavljaju snimljene časove vežbi iz Računarskih mreža za I smer i **obimniji** su od materijala koji se nalaze na ovom repozitorijumu.
+
+Preporučeno je zajedno koristiti video materijale i materijale koji se nalaze na ovom repozitorijumu
