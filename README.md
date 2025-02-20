@@ -15,7 +15,7 @@ Asistenti: [Milan Mitreski](http://poincare.matf.bg.ac.rs/~milan.mitreski)
 
 ## Ispitne obaveze
 
-Teorijski ispit: 40 poena (više informacija na profesorovom sajtu)
+Teorijski ispit: 40 poena (više informacija na profesorovom sajtu)\
 Prakitčni ispit: 60 poena; Radi se 3 sata i sadrži tri zadatka koji se rade u Javi, pri čemu:
 - Jedan zadatak u vezi sa temama 3. i 4.
 - Jedan zadatak u vezi sa temom 5.
