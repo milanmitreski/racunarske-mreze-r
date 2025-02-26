@@ -2,7 +2,7 @@
 
 Obavezan kurs na četvrtoj godini Matematičkog fakulteta, za studente smera Matematika, modul Računarstvo i informatika\
 Profesor: [dr Mirko Spasić](https://poincare.matf.bg.ac.rs/~mirko.spasic/)\
-Asistenti: [Milan Mitreski](http://poincare.matf.bg.ac.rs/~milan.mitreski)
+Asistent: [Milan Mitreski](http://poincare.matf.bg.ac.rs/~milan.mitreski)
 
 ## Obrađene teme na kursu
 
@@ -28,4 +28,4 @@ Za potrebe pripreme praktičnog ispita dovoljno je obraditi teme/zadatke koji se
 
 Video materijali za ovaj kurs dostupni su na veb stranici kolege [Ivana Ristovića](https://matf.ristovic.net/courses/rm/). Ovi video materijali predstavljaju snimljene časove vežbi iz Računarskih mreža za I smer i **obimniji** su od materijala koji se nalaze na ovom repozitorijumu.
 
-Preporučeno je zajedno koristiti video materijale i materijale koji se nalaze na ovom repozitorijumu
+Preporučeno je zajedno koristiti video materijale i materijale koji se nalaze na ovom repozitorijumu.
